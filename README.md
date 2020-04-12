@@ -16,7 +16,29 @@ Despite these many benefits, Product Wheel design, in reality, is often not opti
 
 In this project, we will try to apply Machine Learning methods to evaluate effects of different input process parameters on a chemical manufacturing of a product with codename "Corian", in order to optimize Product Wheel, minimize the amount of scrap material during product types changeover, and reduce production cost as a result.
 
+## Project Scope, Quick Intro
+-----------
 
+## Sturcture
+
+```
+```
+
+## Instructions
+-----------
+### Dependencies:
+
+## Data Dependencies
+
+## Running the nosetests
+-----------
+
+## Use Case: Example 
+-----------
+## The result of the model
+
+## Future work
+-----------
 
 ## Acknowledgements
 -----------
