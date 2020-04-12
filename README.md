@@ -22,6 +22,22 @@ In this project, we will try to apply Machine Learning methods to evaluate effec
 ## Sturcture
 
 ```
+|-Licence
+
+|-README
+
+|-.gitignore
+
+|-images
+
+  |-DIRECTlogo-Final.png
+  
+  |-logo.png
+  
+  |-Signature_Center_Purple_RGB.png
+  
+
+
 ```
 
 ## Instructions
@@ -39,6 +55,7 @@ In this project, we will try to apply Machine Learning methods to evaluate effec
 
 ## Future work
 -----------
+Right now we only use transition time as well as transition sheet as our standard for the annual transition cost and  we only have limited datasets and lack the data of the inventory carrying costs. So in the future, we might consider more factors to determine the annual transition cost. Besides, we hope we can obtain more data from companies and the inventory carrying costs to achieve the total product wheel cost.
 
 ## Acknowledgements
 -----------
