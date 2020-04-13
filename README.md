@@ -36,6 +36,7 @@ In this project, we will try to apply Machine Learning methods to evaluate effec
   
   |-Signature_Center_Purple_RGB.png
   
+|-.travis.yml
 
 
 ```
