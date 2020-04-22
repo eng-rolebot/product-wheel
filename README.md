@@ -18,6 +18,8 @@ Despite these many benefits, Product Wheel design, in reality, is often not opti
 
 In this project, we will try to apply Machine Learning methods to evaluate effects of different input process parameters on a chemical manufacturing of a product with codename "Corian", in order to optimize Product Wheel, minimize the amount of scrap material during product types changeover, and reduce production cost as a result.
 
+* *Image source: http://www.leandynamics.us/product_wheels*
+
 ## Project Introduction 
 -----------
 To put the phrase "Product Wheel" in a more reatlistic approach, one must define the overall product wheel cost. It is composed of two major costs, the annual transition cost and the average inventory carrying cost. Both in which affects one another. However, since the average inventory carrying cost isn't provided, the product wheel will be optimized from the perspective of annual transition cost.
