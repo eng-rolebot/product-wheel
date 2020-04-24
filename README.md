@@ -64,6 +64,11 @@ The potential users for this algorithm could be any production engineer, from an
 -----------
 ## The result of the model
 
+## Project Timeline
+-----------
+<img align="center" img src="https://github.com/eng-rolebot/product-wheel/blob/master/images/Gantt_Chart_Nice.png?raw=true">
+Last Updated: 04/22/2020
+
 ## Future work
 -----------
 Right now we only use transition time as well as transition sheet as our standard for the annual transition cost and  we only have limited datasets and lack the data of the inventory carrying costs. So in the future, we might consider more factors to determine the annual transition cost. Besides, we hope we can obtain more data from companies and the inventory carrying costs to achieve the total product wheel cost.
