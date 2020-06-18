@@ -54,9 +54,9 @@ The potential users for this algorithm could be any production engineer, from an
 ## Instructions
 -----------
 ### Dependencies:
-
+`pandas` `numpy` `random` 
 ## Data Dependencies
-
+The data is provided by our mentor Wesley Beckner from MFG Analytics. Two main datasheets we used `Variable cost per sheet.xlsx and ~$Variable cost per sheet.xlsx` can be found in the `data` directory.
 ## Running the nosetests
 -----------
 
