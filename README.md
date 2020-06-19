@@ -38,27 +38,82 @@ The potential users for this algorithm could be any production engineer, from an
 
 |-.gitignore
 
+|-.travis.yml
+
+|-.product-wheel.yml
+
 |-images
 
   |-DIRECTlogo-Final.png
+  
+  |-Gantt_Chart_Nice.png
   
   |-logo.png
   
   |-Signature_Center_Purple_RGB.png
   
-|-.travis.yml
+  |-product-wheel-image.png
+  
+|-data
 
+  |-OrderColorTransitionsReport 1_1_17 - 4_22_19.xlsx
+  
+  |-Variable cost per sheet.xlsx
+  
+  |-category_stats.csv
+  
+  |-category_stats.xlsx
+  
+  |-energy (LAPTOP-KQTC255A's conflicted copy 2020-03-03).xlsx
+  
+  |-energy.xlsx
+  
+  |-oee.csv
+  
+  |-~$OrderColorTransitionsReport 1_1_17 - 4_22_19.xlsx
+  
+  |-~$Variable cost per sheet.xlsx
+  
+|-product-wheel
+  
+  |-submodule
+  
+  |-test
+  
+  |-Data Processing.ipynb
+  
+  |-Machine learning.ipynb
 
+|-project1
+  
+  |-boxplot_subfamilies.png
+  
+  |-corian_overview_UW_Direct.ipynb
+  
+  |-dist_after_throw_out.png
+  
+  |-family_transitions.xlsx
+  
+  |-kde_subfamilies.png
+  
+  |-loss_vs_attempts.png
+  
+  |-read_me.ipynb
+  
+  |-subfamily_count.png
 ```
 
 ## Instructions
 -----------
 ### Dependencies:
 `pandas` `numpy` `random` 
+
 ## Data Dependencies
 The data is provided by our mentor Wesley Beckner from MFG Analytics. Two main datasheets we used `Variable cost per sheet.xlsx and ~$Variable cost per sheet.xlsx` can be found in the `data` directory.
+
 ## Running the nosetests
 -----------
+By using the nosetests in the terminal
 
 ## Use Case: Example 
 -----------
@@ -75,6 +130,8 @@ Right now we only use transition time as well as transition sheet as our standar
 
 ## Acknowledgements
 -----------
+Special thanks to Dave Beck, Wesley Beckner for help and guidance in learning python and machine learning.
+
 
 
 <img align="center" img src="https://github.com/eng-rolebot/product-wheel/blob/master/images/DIRECTlogo-Final.png?raw=true" width="300"> <img align="center" img src="https://github.com/eng-rolebot/product-wheel/blob/master/images/Signature_Center_Purple_RGB.png?raw=true" width="300">
